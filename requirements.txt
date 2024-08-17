@@ -4,5 +4,5 @@ numpy
 Pillow
 flask
 keras~=2.6.0
-tensorflow
+tensorflow==2.15.0
 flask-cors
